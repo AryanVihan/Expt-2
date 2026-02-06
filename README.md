@@ -1,4 +1,4 @@
-# CloudSim Experiment 1: Basic Datacenter and Cloudlet Simulation
+# CloudSim Experiment 2: Basic Datacenter and Cloudlet Simulation
 
 This experiment demonstrates a basic CloudSim simulation where a single datacenter hosts one virtual machine (VM) that executes a single cloudlet. It is intended as an introductory example to understand CloudSim concepts such as datacenters, brokers, VMs, and cloudlets.
 
